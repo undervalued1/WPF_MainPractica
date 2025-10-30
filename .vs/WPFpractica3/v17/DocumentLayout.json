@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\classes\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\classes\\pacient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\reseption.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\reseption.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\converters\\converterdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\converters\\converterdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\reseption.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\reseption.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\main.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\thememenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\thememenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|c:\\users\\st310-02\\documents\\yalymovpetr_pr-42\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\deletebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\deletebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\colors\\themes\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\colors\\themes\\themehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\colors\\themes\\lighttheme\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\colors\\themes\\lighttheme\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\colors\\themes\\darktheme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\colors\\themes\\darktheme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\redactingpacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\redactingpacient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\redactingpacient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\redactingpacient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\addbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\addbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\namepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\namepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\mainborder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\mainborder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:50:05.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\App.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\App.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\App.xaml",
+              "RelativeToolTip": "WPFpractica3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:31:41.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Main.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\Main.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Main.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:30:47.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\LightTheme\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\Colors\\Themes\\LightTheme\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\LightTheme\\LightTheme.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\Colors\\Themes\\LightTheme\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T07:38:41.398Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConverterDate.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Converters\\ConverterDate.cs",
+              "RelativeDocumentMoniker": "WPFpractica3\\Converters\\ConverterDate.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Converters\\ConverterDate.cs",
+              "RelativeToolTip": "WPFpractica3\\Converters\\ConverterDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:32:56.287Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reseption.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Reseption.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\Reseption.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Reseption.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\Reseption.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T08:19:39.359Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pacient.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Classes\\Pacient.cs",
+              "RelativeDocumentMoniker": "WPFpractica3\\Classes\\Pacient.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Classes\\Pacient.cs",
+              "RelativeToolTip": "WPFpractica3\\Classes\\Pacient.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAowIMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:16:44.274Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Registration.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\Registration.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Registration.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T09:35:24.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reseption.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Reseption.xaml.cs",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\Reseption.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Reseption.xaml.cs",
+              "RelativeToolTip": "WPFpractica3\\Pages\\Reseption.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:30:02.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThemeHelper.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\ThemeHelper.cs",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\Colors\\Themes\\ThemeHelper.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\ThemeHelper.cs",
+              "RelativeToolTip": "WPFpractica3\\Styles\\Colors\\Themes\\ThemeHelper.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T08:20:20.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RedactingPacient.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\RedactingPacient.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\RedactingPacient.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\RedactingPacient.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\RedactingPacient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T07:59:01.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Main.xaml.cs",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\Main.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Main.xaml.cs",
+              "RelativeToolTip": "WPFpractica3\\Pages\\Main.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAkwF0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:58:13.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteButton.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\DeleteButton.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\DeleteButton.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\DeleteButton.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\DeleteButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-28T07:38:14.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThemeMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:01:36.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NamePage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:00:24.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\MainWindow.xaml",
+              "RelativeToolTip": "WPFpractica3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:55:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextBlock.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:55:19.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\SignIn.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\SignIn.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\SignIn.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\SignIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:40:30.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RedactingPacient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\RedactingPacient.xaml.cs",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\RedactingPacient.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\RedactingPacient.xaml.cs",
+              "RelativeToolTip": "WPFpractica3\\Pages\\RedactingPacient.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:59:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\Button.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\Button.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\Button.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:44:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainBorder.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:43:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddButton.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "ToolTip": "C:\\Users\\st310-02\\Documents\\YalymovPetr_PR-42\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:40:09.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

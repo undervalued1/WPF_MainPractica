@@ -1,0 +1,39 @@
+﻿<Application x:Class="WPFpractica3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFpractica3"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--Темы-->
+                <ResourceDictionary Source="Styles/Colors/Themes/LightTheme/LightTheme.xaml"/>
+                <ResourceDictionary Source="Styles/Colors/Themes/DarkTheme/DarkTheme.xaml"/>
+                <!--Форма-->
+                <ResourceDictionary Source="Styles/UI/Grid.xaml"/>
+                <ResourceDictionary Source="Styles/UI/StackPanel.xaml"/>
+                <ResourceDictionary Source="Styles/UI/InfoStackPanel.xaml"/>
+
+                <ResourceDictionary Source="Styles/UI/ListView.xaml"/>
+                <ResourceDictionary Source="Styles/UI/DatePicker.xaml"/>
+                <ResourceDictionary Source="Styles/UI/ThemeMenu.xaml"/>
+
+                <ResourceDictionary Source="Styles/UI/MainBorder.xaml"/>
+                <ResourceDictionary Source="Styles/UI/SubtitleText.xaml"/>
+                <ResourceDictionary Source="Styles/UI/BorderForItemList.xaml"/>
+                <!--Лабели-->
+                <ResourceDictionary Source="Styles/UI/Label.xaml"/>
+                <ResourceDictionary Source="Styles/UI/NamePage.xaml"/>
+                <ResourceDictionary Source="Styles/UI/TextBlock.xaml"/>
+                <!--Текстбоксы-->
+                <ResourceDictionary Source="Styles/UI/TextBox.xaml"/>
+                <ResourceDictionary Source="Styles/UI/TextBoxRecomendation.xaml"/>
+                <!--Кнопки-->
+                <ResourceDictionary Source="/Styles/UI/AddButton.xaml"/>
+                <ResourceDictionary Source="/Styles/UI/DeleteButton.xaml"/>
+                <ResourceDictionary Source="Styles/UI/Button.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+        
+    </Application.Resources>
+</Application>

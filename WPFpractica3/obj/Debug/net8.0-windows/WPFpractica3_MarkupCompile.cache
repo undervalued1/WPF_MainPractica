@@ -1,0 +1,20 @@
+﻿WPFpractica3
+
+
+winexe
+C#
+.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\
+WPFpractica3
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\App.xaml
+261371202290
+
+161723671595
+198155382431
+MainWindow.xaml;Pages\AddPacient.xaml;Pages\Main.xaml;Pages\RedactingPacient.xaml;Pages\Registration.xaml;Pages\Reseption.xaml;Pages\SignIn.xaml;Styles\Colors\Themes\DarkTheme\DarkTheme.xaml;Styles\Colors\Themes\LightTheme\LightTheme.xaml;Styles\UI\AddButton.xaml;Styles\UI\BorderForItemList.xaml;Styles\UI\Button.xaml;Styles\UI\DatePicker.xaml;Styles\UI\DeleteButton.xaml;Styles\UI\Grid.xaml;Styles\UI\InfoStackPanel.xaml;Styles\UI\Label.xaml;Styles\UI\ListView.xaml;Styles\UI\MainBorder.xaml;Styles\UI\NamePage.xaml;Styles\UI\StackPanel.xaml;Styles\UI\SubtitleText.xaml;Styles\UI\TextBlock.xaml;Styles\UI\TextBox.xaml;Styles\UI\TextBoxRecomendation.xaml;Styles\UI\ThemeMenu.xaml;
+
+False
+

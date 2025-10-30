@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\main.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\textblock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\thememenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\thememenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\namepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\namepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\addbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\addbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\mainborder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\mainborder.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\ui\\button.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\pages\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\pages\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|d:\\\u0435\u043A\u0442\u0441\\wpfpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\wpfpractica3\\styles\\colors\\themes\\darktheme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2ADEE086-D843-49AD-ABF7-28EE7D2A0BB1}|WPFpractica3\\WPFpractica3.csproj|solutionrelative:wpfpractica3\\styles\\colors\\themes\\darktheme\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\Colors\\Themes\\DarkTheme\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T15:50:05.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\App.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\App.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\App.xaml",
+              "RelativeToolTip": "WPFpractica3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:31:41.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Main.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\Main.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\Main.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\Main.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:30:47.426Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThemeMenu.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\ThemeMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:01:36.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NamePage.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\NamePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T17:00:24.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\MainWindow.xaml",
+              "RelativeToolTip": "WPFpractica3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:55:48.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextBlock.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\TextBlock.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:55:19.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Button.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\Button.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\Button.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\Button.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\Button.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:44:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainBorder.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\MainBorder.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:43:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\SignIn.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Pages\\SignIn.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Pages\\SignIn.xaml",
+              "RelativeToolTip": "WPFpractica3\\Pages\\SignIn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:40:30.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddButton.xaml",
+              "DocumentMoniker": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "RelativeDocumentMoniker": "WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "ToolTip": "D:\\\u0415\u041A\u0422\u0421\\WPFpractica3 \u2014 \u043A\u043E\u043F\u0438\u044F\\WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "RelativeToolTip": "WPFpractica3\\Styles\\UI\\AddButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:40:09.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

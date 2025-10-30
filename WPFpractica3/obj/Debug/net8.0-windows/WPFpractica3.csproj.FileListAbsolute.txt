@@ -1,0 +1,211 @@
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.exe
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.deps.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.runtimeconfig.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.pdb
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.lref
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.g.resources
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfoInputs.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfo.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.csproj.CoreCompileInputs.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\refint\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.pdb
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.genruntimeconfig.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3-master\WPFpractica3\obj\Debug\net8.0-windows\ref\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.exe
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.deps.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.runtimeconfig.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.pdb
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.lref
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.g.resources
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfoInputs.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfo.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.csproj.CoreCompileInputs.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.sourcelink.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\refint\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.pdb
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.genruntimeconfig.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\ref\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.exe
+D:\ЕКТС\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.deps.json
+D:\ЕКТС\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.runtimeconfig.json
+D:\ЕКТС\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.pdb
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\App.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.cache
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.lref
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.baml
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.g.resources
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfoInputs.cache
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfo.cs
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.csproj.CoreCompileInputs.cache
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.sourcelink.json
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\refint\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.pdb
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.genruntimeconfig.cache
+D:\ЕКТС\WPFpractica3\WPFpractica3\obj\Debug\net8.0-windows\ref\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.exe
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll.config
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.deps.json
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.runtimeconfig.json
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.pdb
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\Colors\Themes\DarkTheme\DarkTheme.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\Colors\Themes\LightTheme\LightTheme.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\BorderForItemList.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\DatePicker.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\Grid.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\Label.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\ListView.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\MainBorder.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\NamePage.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\StackPanel.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\SubtitleText.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\TextBox.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\TextBoxRecomendation.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\ThemeMenu.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\App.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.cache
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.lref
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\App.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.g.resources
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfoInputs.cache
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfo.cs
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.csproj.CoreCompileInputs.cache
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.sourcelink.json
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\refint\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.pdb
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.genruntimeconfig.cache
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\ref\WPFpractica3.dll
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\AddButton.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\DeleteButton.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\InfoStackPanel.baml
+D:\ЕКТС\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\TextBlock.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\Colors\Themes\DarkTheme\DarkTheme.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\Colors\Themes\LightTheme\LightTheme.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\AddButton.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\BorderForItemList.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\Button.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\DatePicker.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\DeleteButton.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\Grid.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\InfoStackPanel.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\Label.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\ListView.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\MainBorder.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\NamePage.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\StackPanel.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\SubtitleText.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\TextBlock.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\TextBox.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\TextBoxRecomendation.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Styles\UI\ThemeMenu.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3_MarkupCompile.lref
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.exe
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll.config
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.deps.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.runtimeconfig.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\bin\Debug\net8.0-windows\WPFpractica3.pdb
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.g.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\AddPacient.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Main.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\RedactingPacient.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Registration.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\Reseption.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\Pages\SignIn.baml
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.g.resources
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfoInputs.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.AssemblyInfo.cs
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.csproj.CoreCompileInputs.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.sourcelink.json
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\refint\WPFpractica3.dll
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.pdb
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\WPFpractica3.genruntimeconfig.cache
+C:\Users\st310-02\Documents\YalymovPetr_PR-42\WPFpractica3 — копия\WPFpractica3\obj\Debug\net8.0-windows\ref\WPFpractica3.dll

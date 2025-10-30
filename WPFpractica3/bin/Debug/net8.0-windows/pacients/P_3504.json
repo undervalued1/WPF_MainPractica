@@ -1,0 +1,24 @@
+{
+  "IdPacient": "P_3504",
+  "Name": "\u0418\u0432\u0430\u043D",
+  "LastName": "\u0418\u0432\u0430\u043D\u043E\u0432",
+  "MiddleName": "\u0418\u0432\u0430\u043D\u043E\u0432\u0438\u0447",
+  "DateBirthday": "2009-06-03T00:00:00",
+  "PhoneNumber": "89121111111",
+  "AppointmentStories": [
+    {
+      "Date": "2025-10-23T00:00:00",
+      "DoctorId": null,
+      "Diagnosis": "\u041E\u0420\u0412\u0418",
+      "Recommendations": "\u0422\u0435\u043F\u043B\u044B\u0439 \u0447\u0430\u0439 \u043F\u043E\u0434 \u043F\u043B\u0435\u0434\u0438\u043A\u043E\u043C",
+      "DoctorFullName": "\u041F\u043E\u0442\u0430\u043F\u0435\u043D\u043E\u043A \u0410\u043D\u0434\u0440\u0435\u0439 \u041F\u0435\u0442\u0440\u043E\u0432\u0438\u0447"
+    },
+    {
+      "Date": "2025-10-28T00:00:00",
+      "DoctorId": null,
+      "Diagnosis": "321",
+      "Recommendations": "123",
+      "DoctorFullName": "\u041B\u043E\u0431\u0430\u043D\u043E\u0432 \u0413\u043B\u0435\u0431 \u0410\u0440\u0442\u0435\u043C\u043E\u0432\u0438\u0447"
+    }
+  ]
+}

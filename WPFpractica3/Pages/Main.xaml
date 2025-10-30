@@ -1,0 +1,125 @@
+﻿<Page x:Class="WPFpractica3.Pages.Main"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WPFpractica3.Pages"
+      
+      xmlns:converters="clr-namespace:WPFpractica3.Converters"
+      
+      mc:Ignorable="d" 
+      d:DesignHeight="780" d:DesignWidth="800"
+      Title="Main">
+
+
+   
+  
+        <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+
+            <StackPanel>
+            <Label Content="Главное окно" HorizontalAlignment="Center" Style="{DynamicResource NamePage}"/>
+                <StackPanel  Orientation="Horizontal" 
+             HorizontalAlignment="Center"
+             VerticalAlignment="Top"
+             Grid.Column="0" Grid.Row="0">
+                <Button Content="Начать прием" Name="GoToReceptionButton" 
+                Click="GoToReceptionButton_Click"></Button>
+                <Button Name="GoToAddPacientButton" Style="{DynamicResource AddButton}"
+                            Click="GoToAddPacientButton_Click"></Button>
+                <Button Name="DeleteButton" Style="{DynamicResource DeleteButton}"
+                        Click="DeleteButton_Click" />
+                <Button Content="Изменить информацию" Name="GoToEditPacientButton"
+                            Click="GoToEditPacientButton_Click"></Button>
+                </StackPanel>
+
+            <Border Style="{DynamicResource MainBorder}">
+                    <StackPanel Grid.Column="0" Grid.Row="1">
+                    <ListView x:Name ="PacientListView" 
+                                  ItemsSource="{Binding Pacients}">
+                        <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    
+                                        <StackPanel>
+                                            <StackPanel Orientation="Horizontal">
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="Идентификатор: " Style="{DynamicResource Text}"/>
+                                            <TextBlock Text="{Binding IdPacient}" Style="{DynamicResource Text}"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Имя: " Style="{DynamicResource Text}"/>
+                                            <TextBlock Text="{Binding Name}" Style="{DynamicResource Text}"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Фамилия: " Style="{DynamicResource Text}"/>
+                                            <TextBlock Text="{Binding LastName}" Style="{DynamicResource Text}"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Отчевство: " Style="{DynamicResource Text}"/>
+                                            <TextBlock Text="{Binding MiddleName}" Style="{DynamicResource Text}"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Дата рождения: " Style="{DynamicResource Text}"/>
+                                                    <TextBlock Text="{Binding DateBirthday, StringFormat={}{0:dd.MM.yyyy}}"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                            <StackPanel>
+                                                <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="Номер телефона: " Style="{DynamicResource Text}"/>
+                                                    <TextBlock Text="{Binding PhoneNumber}"/>
+                                                </StackPanel>
+                                            </StackPanel>
+                                        </StackPanel>
+                                   
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                            </ListView>
+                    </StackPanel>
+                </Border>
+                
+            </StackPanel>
+            <StackPanel Grid.Row="2" Background="AntiqueWhite">
+                <StackPanel>
+                <Label Style="{DynamicResource SubtitleText}" Content="Данные пользователя:"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Фамилия: "/>
+                        <Label Content="{Binding CurrentDoctor.LastName}"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Имя: "/>
+                        <Label Content="{Binding CurrentDoctor.Name}"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Отчество: "/>
+                        <Label Content="{Binding CurrentDoctor.MiddleName}" />
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Специализация: "/>
+                        <Label Content="{Binding CurrentDoctor.Specialization}" />
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="2"
+                  Style="{DynamicResource InfoStackPanel}">
+                    <Label Content="Всего в списке:"/>
+                    <Label Content="{Binding Pacients.Count}"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+</Page>
