@@ -127,13 +127,14 @@ namespace WPFpractica3.Classes
                 var lastDate = lastAppointment.Date;
                 var days = (DateTime.Now - lastDate).Days;
 
-                return days == 0 ? "Сегодня" : $"{days} дней назад";
+                return days == 0 ? "Последний прием: Сегодня" : $"Последний прием: {days} дней назад";
             }
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
 
         protected void OnPropertyChanged([CallerMemberName] string? propName = null)
+
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propName));
         }

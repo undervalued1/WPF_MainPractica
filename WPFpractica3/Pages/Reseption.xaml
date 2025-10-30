@@ -50,7 +50,7 @@
             <StackPanel Grid.Column="1">
             <Label Content="Добавление приема" Style="{DynamicResource SubtitleText}" HorizontalAlignment="Center"/>
 
-                <StackPanel Margin="0,10">
+                <StackPanel>
                     <StackPanel Orientation="Horizontal">
                         <TextBlock Text="Фамилия: " Style="{DynamicResource Text}"></TextBlock>
                     <TextBlock Text="{Binding CurrentPacient.LastName}" Style="{DynamicResource Text}"  />
@@ -68,6 +68,9 @@
                     </StackPanel>
                 <StackPanel Orientation="Horizontal">
                     <TextBlock Text="{Binding CurrentPacient.DateBirthday, Converter={StaticResource DateToAgeConverter}}" Style="{DynamicResource Text}"/>
+                </StackPanel>
+                <StackPanel>
+                    <TextBlock Text="{Binding CurrentPacient.DaysSinceLastAppointment}" Style="{DynamicResource Text}"/>
                 </StackPanel>
 
 
